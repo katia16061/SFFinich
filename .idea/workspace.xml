@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49df99e3-ab09-4137-b0d6-7d79d9df6f03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SkillFactory/StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkillFactory/StepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SkillFactory/freePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkillFactory/freePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SkillFactory/mainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkillFactory/mainPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VSoTtkaJqS2Gf3YduB2IjGLI9N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,9 +39,123 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/Екатерина/AppData/Local/Temp/Tempbb365fc3-6d4c-4ed3-80c9-f642c882878f_skillfactory.ru_check.zip/SFFinich/src/main/java/org/example/Main.java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Екатерина/AppData/Local/Temp/Tempbb365fc3-6d4c-4ed3-80c9-f642c882878f_skillfactory.ru_check.zip/SFFinich",
+    "onboarding.tips.debug.path": "C:/Users/Екатерина/AppData/Local/Temp/Tempbb365fc3-6d4c-4ed3-80c9-f642c882878f_skillfactory.ru_check.zip/SFFinich/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Екатерина\AppData\Local\Temp\Tempbb365fc3-6d4c-4ed3-80c9-f642c882878f_skillfactory.ru_check.zip\SFFinich\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StepDefinitions">
+    <configuration name="StepDefinitions .Test_b" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SFFinich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SkillFactory" />
+      <option name="MAIN_CLASS_NAME" value="SkillFactory.StepDefinitions " />
+      <option name="METHOD_NAME" value="Test_b" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepDefinitions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SFFinich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SkillFactory" />
+      <option name="MAIN_CLASS_NAME" value="SkillFactory.StepDefinitions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepDefinitions.Test_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SFFinich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SkillFactory" />
+      <option name="MAIN_CLASS_NAME" value="SkillFactory.StepDefinitions" />
+      <option name="METHOD_NAME" value="Test_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepDefinitions.Test_18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SFFinich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SkillFactory" />
+      <option name="MAIN_CLASS_NAME" value="SkillFactory.StepDefinitions" />
+      <option name="METHOD_NAME" value="Test_18" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepDefinitions.Test_19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SFFinich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SkillFactory" />
+      <option name="MAIN_CLASS_NAME" value="SkillFactory.StepDefinitions" />
+      <option name="METHOD_NAME" value="Test_19" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepDefinitions.Test_20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SFFinich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SkillFactory" />
+      <option name="MAIN_CLASS_NAME" value="SkillFactory.StepDefinitions" />
+      <option name="METHOD_NAME" value="Test_20" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StepDefinitions" />
+        <item itemvalue="JUnit.StepDefinitions.Test_1" />
+        <item itemvalue="JUnit.StepDefinitions.Test_18" />
+        <item itemvalue="JUnit.StepDefinitions.Test_20" />
+        <item itemvalue="JUnit.StepDefinitions.Test_19" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,16 +166,5 @@
       <updated>1694838855044</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
